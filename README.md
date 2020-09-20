@@ -4,8 +4,8 @@
 
 ## I'm a DevSecOps Engineer and former IIoT Engineer
 
-- 🔭 I’m currently working on using a Raspberry Pi Zero to stream music in my car via Bluetooth
-- 🌱 I’m currently learning Terraform
+- 🕹️ I’m working on building keyboard peripherals with Eletron, Johnny-Five and Arduino
+- 🔭 I’m currently learning Terraform
 - 🥅 2020 Goals: Complete Hacktoberfest
 - 🌯 Fun fact: I love breakfast burritos
 
