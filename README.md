@@ -6,7 +6,7 @@
 
 - 🕹️ I’m working on building keyboard peripherals with Eletron, Johnny-Five and Arduino
 - 🔭 I’m currently learning Terraform
-- 🥅 2020 Goals: ~~Complete~~ Comleted Hacktoberfest
+- 🥅 2020 Goals: ~~Complete~~ Completed Hacktoberfest
 - 🌯 Fun fact: I love breakfast burritos
 
 <br />
