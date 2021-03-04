@@ -15,11 +15,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automated Load Testing with GitHub Actions and Artillery](https://medium.com/@connor-hewett/automated-load-testing-with-github-actions-and-artillery-2e8cc95ed499?source=rss-1b88832fa9b8------2)
 - [Fixing an EC2 instance that has run out of storage](https://medium.com/@connor-hewett/fixing-an-ec2-instance-that-has-run-out-of-storage-311af60bfed?source=rss-1b88832fa9b8------2)
 - [Quick MongoDB Docker Setup](https://medium.com/@connor-hewett/quick-mongodb-docker-setup-d1959c8fc8f2?source=rss-1b88832fa9b8------2)
 - [Learning how to contribute to Open Source from Hacktoberfest 2020](https://medium.com/@connor-hewett/learning-how-to-contribute-to-open-source-from-hacktoberfest-2020-38cb3beeb47a?source=rss-1b88832fa9b8------2)
 - [Arduino CO2 Sensor with Johnny Five](https://medium.com/@connor-hewett/arduino-co2-sensor-with-johnny-five-94993a3dfd2f?source=rss-1b88832fa9b8------2)
-- [️How to use a Joystick & Arduino to control a mouse cursor with NodeJS](https://medium.com/@connor-hewett/%EF%B8%8Fhow-to-use-a-joystick-arduino-to-control-a-mouse-cursor-with-nodejs-c3b19be17764?source=rss-1b88832fa9b8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@hewett.j.connor)
