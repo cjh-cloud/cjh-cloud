@@ -1,12 +1,12 @@
-### Kia Ora, I'm Connor - aka [SenorGrande][website] 👋
+### Kia Ora, I'm CJ - aka [SenorGrande][website] 👋
 
 [![Website](https://img.shields.io/website?label=senorgrande.github.io&style=for-the-badge&url=https%3A%2F%2Fsenorgrande.github.io)](https://senorgrande.github.io)
 
 ## I'm a DevSecOps Engineer and former IIoT Engineer
 
 - 🕹️ I’m working on building keyboard peripherals with Eletron, Johnny-Five and Arduino
-- 🔭 I’m currently learning Terraform
-- 🥅 2020 Goals: ~~Complete~~ Completed Hacktoberfest
+- 🔭 I’m currently learning Kubernetes
+- 🥅 2021 Goals: Get my T̶e̶r̶r̶a̶f̶o̶r̶m̶ ̶A̶s̶s̶o̶c̶i̶a̶t̶e̶ ̶C̶e̶r̶t̶i̶f̶i̶c̶a̶t̶e̶  and AWS DevOps Professional Certificate
 - 🌯 Fun fact: I love breakfast burritos
 
 <br />
