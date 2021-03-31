@@ -15,11 +15,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Program a DigiSpark Microcontroller and use NeoPixel library](https://connor-hewett.medium.com/program-a-digispark-microcontroller-and-use-neopixel-library-81fc368d5a1a?source=rss-1b88832fa9b8------2)
 - [Automated Load Testing with GitHub Actions and Artillery](https://connor-hewett.medium.com/automated-load-testing-with-github-actions-and-artillery-2e8cc95ed499?source=rss-1b88832fa9b8------2)
 - [Fixing an EC2 instance that has run out of storage](https://connor-hewett.medium.com/fixing-an-ec2-instance-that-has-run-out-of-storage-311af60bfed?source=rss-1b88832fa9b8------2)
 - [Quick MongoDB Docker Setup](https://connor-hewett.medium.com/quick-mongodb-docker-setup-d1959c8fc8f2?source=rss-1b88832fa9b8------2)
 - [Learning how to contribute to Open Source from Hacktoberfest 2020](https://connor-hewett.medium.com/learning-how-to-contribute-to-open-source-from-hacktoberfest-2020-38cb3beeb47a?source=rss-1b88832fa9b8------2)
-- [Arduino CO2 Sensor with Johnny Five](https://connor-hewett.medium.com/arduino-co2-sensor-with-johnny-five-94993a3dfd2f?source=rss-1b88832fa9b8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@hewett.j.connor)
