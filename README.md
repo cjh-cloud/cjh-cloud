@@ -4,9 +4,9 @@
 
 ## I'm a DevSecOps Engineer and former IIoT Engineer
 
-- 🕹️ I’m working on building keyboard peripherals with Eletron, Johnny-Five and Arduino
-- 🔭 I’m currently learning Kubernetes
-- 🥅 2021 Goals: Get my T̶e̶r̶r̶a̶f̶o̶r̶m̶ ̶A̶s̶s̶o̶c̶i̶a̶t̶e̶ ̶C̶e̶r̶t̶i̶f̶i̶c̶a̶t̶e̶  and AWS DevOps Professional Certificate
+- 🕹️ I’m working on building a PWA to connect to an ESP with Bluetooth and Wifi
+- ✏️ I’m currently learning Kubernetes
+- 🥅 2022 Goals: Get my AWS DevOps Professional Certificate
 - 🌯 Fun fact: I love breakfast burritos
 
 <br />
@@ -26,7 +26,7 @@
 
 ---
 
-<img align="left" alt="SenorGrande's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SenorGrande&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="SenorGrande's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SenorGrande&show_icons=true&hide_border=true" /> -->
 
 
 [website]: https://senorgrande.github.io
