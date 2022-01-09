@@ -22,7 +22,7 @@
 - [Fixing an EC2 instance that has run out of storage](https://connor-hewett.medium.com/fixing-an-ec2-instance-that-has-run-out-of-storage-311af60bfed?source=rss-1b88832fa9b8------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@hewett.j.connor)
+➡️ [more blog posts...](https://medium.com/@cj-hewett)
 
 ---
 
