@@ -15,11 +15,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Build and Push a Docker image to AWS ECR with Pulumi : Part 1](https://connor-hewett.medium.com/build-and-push-a-docker-image-to-aws-ecr-with-pulumi-part-1-70bc80531007?source=rss-1b88832fa9b8------2)
-- [Azure DevOps Pipelines — Build and Push a Docker image to AWS ECR](https://connor-hewett.medium.com/azure-devops-pipelines-build-and-push-a-docker-image-to-aws-ecr-bc0d35f8f126?source=rss-1b88832fa9b8------2)
-- [Program a DigiSpark Microcontroller and use NeoPixel library](https://connor-hewett.medium.com/program-a-digispark-microcontroller-and-use-neopixel-library-81fc368d5a1a?source=rss-1b88832fa9b8------2)
-- [Automated Load Testing with GitHub Actions and Artillery](https://connor-hewett.medium.com/automated-load-testing-with-github-actions-and-artillery-2e8cc95ed499?source=rss-1b88832fa9b8------2)
-- [Fixing an EC2 instance that has run out of storage](https://connor-hewett.medium.com/fixing-an-ec2-instance-that-has-run-out-of-storage-311af60bfed?source=rss-1b88832fa9b8------2)
+- [Deploying a Frontend web app to Azure Static Web App with Pulumi](https://cj-hewett.medium.com/deploying-a-frontend-web-app-to-azure-static-web-app-with-pulumi-279347e59782?source=rss-1b88832fa9b8------2)
+- [Slimming Docker images with Multistage Dockerfiles and DockerSlim](https://cj-hewett.medium.com/slimming-docker-images-with-multistage-dockerfiles-and-dockerslim-d3efc325e10b?source=rss-1b88832fa9b8------2)
+- [Automate deploying infrastructure to multiple environments with Pulumi and Azure DevOps](https://cj-hewett.medium.com/automate-deploying-infrastructure-to-multiple-environments-with-pulumi-and-azure-devops-ac0e2b975b37?source=rss-1b88832fa9b8------2)
+- [Deploy an ECR image to AWS Fargate with an SSL certificate and Route53 records using Pulumi](https://cj-hewett.medium.com/deploy-an-ecr-image-to-aws-fargate-with-an-ssl-certificate-and-route53-records-using-pulumi-357f4cadec55?source=rss-1b88832fa9b8------2)
+- [Build and Push a Docker image to AWS ECR with Pulumi : Part 3&lpar;with Azure DevOps and Semantic…](https://cj-hewett.medium.com/build-and-push-a-docker-image-to-aws-ecr-with-pulumi-part-3-with-azure-devops-and-semantic-cf8c06b7016e?source=rss-1b88832fa9b8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@cj-hewett)
