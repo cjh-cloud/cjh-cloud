@@ -1,4 +1,4 @@
-### Kia Ora, I'm CJ - aka [SenorGrande][website] 👋
+### Kia Ora, I'm [CJ][website] 🤙
 
 <!-- [![Website](https://img.shields.io/website?label=senorgrande.github.io&style=for-the-badge&url=https%3A%2F%2Fsenorgrande.github.io)](https://senorgrande.github.io) -->
 
@@ -29,4 +29,4 @@
 <!-- <img align="left" alt="SenorGrande's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SenorGrande&show_icons=true&hide_border=true" /> -->
 
 
-[website]: https://senorgrande.github.io
+[website]: https://cj-hewett.medium.com/
