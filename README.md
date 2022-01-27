@@ -2,7 +2,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=senorgrande.github.io&style=for-the-badge&url=https%3A%2F%2Fsenorgrande.github.io)](https://senorgrande.github.io) -->
 
-## I'm a DevSecOps Engineer and former IIoT Engineer
+## I'm a Cloud Engineer and former IIoT Engineer
 
 - 🕹️ I’m working on building a PWA to connect to an ESP with Bluetooth and Wifi
 - ✏️ I’m currently learning Kubernetes
