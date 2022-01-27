@@ -1,6 +1,6 @@
 ### Kia Ora, I'm CJ - aka [SenorGrande][website] 👋
 
-[![Website](https://img.shields.io/website?label=senorgrande.github.io&style=for-the-badge&url=https%3A%2F%2Fsenorgrande.github.io)](https://senorgrande.github.io)
+<!-- [![Website](https://img.shields.io/website?label=senorgrande.github.io&style=for-the-badge&url=https%3A%2F%2Fsenorgrande.github.io)](https://senorgrande.github.io) -->
 
 ## I'm a DevSecOps Engineer and former IIoT Engineer
 
