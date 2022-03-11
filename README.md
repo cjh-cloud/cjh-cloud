@@ -15,7 +15,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Publish Node packages to GitHub Packages with Azure Pipelines and Lerna.js](https://cj-hewett.medium.com/publish-node-packages-to-github-packages-with-azure-pipelines-and-lerna-js-de784d290674?source=rss-1b88832fa9b8------2)
+- [Publish Node packages to GitHub Packages with Azure Pipelines and Lerna.js](https://betterprogramming.pub/publish-node-packages-to-github-packages-with-azure-pipelines-and-lerna-js-de784d290674?source=rss-1b88832fa9b8------2)
 - [Connect an AWS ECS Fargate service to an EFS File System with Pulumi](https://cj-hewett.medium.com/connect-an-aws-ecs-fargate-service-to-an-efs-file-system-with-pulumi-4f984d371a9b?source=rss-1b88832fa9b8------2)
 - [Deploying a Frontend web app to Azure Static Web App with Pulumi](https://cj-hewett.medium.com/deploying-a-frontend-web-app-to-azure-static-web-app-with-pulumi-279347e59782?source=rss-1b88832fa9b8------2)
 - [Slimming Docker images with Multistage Dockerfiles and DockerSlim](https://cj-hewett.medium.com/slimming-docker-images-with-multistage-dockerfiles-and-dockerslim-d3efc325e10b?source=rss-1b88832fa9b8------2)
