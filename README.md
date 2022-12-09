@@ -15,11 +15,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Templates in Terraform to generate Kubernetes YAML](https://cj-hewett.medium.com/using-templates-in-terraform-to-generate-kubernetes-yaml-5f60cfa0109?source=rss-1b88832fa9b8------2)
 - [Getting Docker in Docker with Rootless to run](https://cj-hewett.medium.com/getting-docker-in-docker-with-rootless-to-run-5f91c7f6bc6?source=rss-1b88832fa9b8------2)
 - [Connecting a Progressive Web App and ESP32 with Bluetooth](https://cj-hewett.medium.com/connecting-a-progressive-web-app-and-esp32-with-bluetooth-4f9fecb9c5c5?source=rss-1b88832fa9b8------2)
 - [Deploy a Web App with Pulumi and GitHub Actions](https://cj-hewett.medium.com/deploy-a-web-app-with-pulumi-and-github-actions-dc6533c419b6?source=rss-1b88832fa9b8------2)
 - [Next.js multi-stage Docker file](https://cj-hewett.medium.com/next-js-multi-stage-docker-file-f41454af53c1?source=rss-1b88832fa9b8------2)
-- [Using Terraform to create a Dockerized Azure App Service](https://cj-hewett.medium.com/using-terraform-to-create-a-dockerized-azure-app-service-d138c2816118?source=rss-1b88832fa9b8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@cj-hewett)
