@@ -15,11 +15,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Docker images in GitHub Actions to be used by other workflows](https://cj-hewett.medium.com/building-docker-images-in-github-actions-to-be-used-by-other-workflows-7bb75c35ecb0?source=rss-1b88832fa9b8------2)
 - [Configure Docker to use a proxy server in Jenkins](https://cj-hewett.medium.com/configure-docker-to-use-a-proxy-server-in-jenkins-d4ec014d7fde?source=rss-1b88832fa9b8------2)
 - [Using Templates in Terraform to generate Kubernetes YAML](https://cj-hewett.medium.com/using-templates-in-terraform-to-generate-kubernetes-yaml-5f60cfa0109?source=rss-1b88832fa9b8------2)
 - [Getting Docker in Docker with Rootless to run](https://cj-hewett.medium.com/getting-docker-in-docker-with-rootless-to-run-5f91c7f6bc6?source=rss-1b88832fa9b8------2)
 - [Connecting a Progressive Web App and ESP32 with Bluetooth](https://cj-hewett.medium.com/connecting-a-progressive-web-app-and-esp32-with-bluetooth-4f9fecb9c5c5?source=rss-1b88832fa9b8------2)
-- [Deploy a Web App with Pulumi and GitHub Actions](https://cj-hewett.medium.com/deploy-a-web-app-with-pulumi-and-github-actions-dc6533c419b6?source=rss-1b88832fa9b8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@cj-hewett)
