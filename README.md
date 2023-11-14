@@ -15,11 +15,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Packaging Python requirements as an AWS Lambda Layer with Terraform](https://cj-hewett.medium.com/packaging-python-requirements-as-an-aws-lambda-layer-with-terraform-188f76db4e96?source=rss-1b88832fa9b8------2)
 - [Self-Hosting a Terraform Provider Registry with AWS S3 and CloudFront](https://cj-hewett.medium.com/self-hosting-a-terraform-provider-registry-with-aws-s3-and-cloudfront-a08e6373711d?source=rss-1b88832fa9b8------2)
 - [Using Terraform workspaces with an AWS S3 backend](https://cj-hewett.medium.com/using-terraform-workspaces-with-an-aws-s3-backend-a4250529b5fb?source=rss-1b88832fa9b8------2)
 - [Automate versioning of Terraform with GitHub actions](https://cj-hewett.medium.com/automate-versioning-of-terraform-with-github-actions-4a9f28d965c?source=rss-1b88832fa9b8------2)
 - [Ingest EKS Fargate metrics to AWS Container Insights using ADOT with Helm](https://cj-hewett.medium.com/ingest-eks-fargate-metrics-to-aws-container-insights-using-adot-with-helm-6edb452c82b0?source=rss-1b88832fa9b8------2)
-- [Building Docker images in GitHub Actions to be used by other workflows](https://cj-hewett.medium.com/building-docker-images-in-github-actions-to-be-used-by-other-workflows-7bb75c35ecb0?source=rss-1b88832fa9b8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@cj-hewett)
